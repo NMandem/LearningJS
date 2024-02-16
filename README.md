@@ -1,0 +1,2 @@
+# LearningJS
+A JavaScript project
